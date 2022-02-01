@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:vakinha_burger_mobile/app/modules/splash/splash_page.dart';
 
